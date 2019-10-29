@@ -1,0 +1,11 @@
+*shoot + cave name: shoot an arrow to that cave.
+*go + cave name: go to that specific cave
+*shop: open the shop to purchase stuffs
+
+
+Extra functionality:
+*create a new object named magical Bait.When you were caught by a wumpus, this bait can save your life by distract the wumpus.
+You can also purchase this item in the shop.
+* create a shop so you can use the coins you found to buy something that can help you.
+*You can collect coins while you are walking. You have 1/2 chance to get 1 coin, 1/4 chance to get nothing and 1/4 chance to
+get 2 coins. And you also have 1/20 chance to get 6 coins in one cave!

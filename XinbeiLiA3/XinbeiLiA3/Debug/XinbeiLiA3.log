@@ -1,0 +1,10 @@
+﻿  Main.cpp
+c:\users\lixb\source\repos\xinbeilia3\xinbeilia3\main.cpp(36): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\lixb\source\repos\xinbeilia3\xinbeilia3\main.cpp(63): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\lixb\source\repos\xinbeilia3\xinbeilia3\main.cpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\lixb\source\repos\xinbeilia3\xinbeilia3\main.cpp(140): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\lixb\source\repos\xinbeilia3\xinbeilia3\main.cpp(164): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\lixb\source\repos\xinbeilia3\xinbeilia3\main.cpp(186): warning C4018: '<': signed/unsigned mismatch
+c:\users\lixb\source\repos\xinbeilia3\xinbeilia3\main.cpp(206): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\lixb\source\repos\xinbeilia3\xinbeilia3\main.cpp(211): warning C4715: 'shoot': not all control paths return a value
+  XinbeiLiA3.vcxproj -> C:\Users\lixb\source\repos\XinbeiLiA3\Debug\XinbeiLiA3.exe
